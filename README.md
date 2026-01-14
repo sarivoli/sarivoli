@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://github.com/sarivoli/sarivoli/blob/39d1d3cb1fbc6bef1059c7d12dd054e4e25854af/arivoli.png" alt="Arivoli S Banner" />
+  <img src="https://github.com/sarivoli/sarivoli/blob/da23e8ae602e5599c3559a8af8c5175b96d639b8/arivoli.png" alt="Arivoli S | Lead • Build • Deliver" />
 </p>
 
 <h1 align="center">Arivoli S</h1>
 <h3 align="center">Product & Delivery Leader | System Builder | Engineering Excellence Advocate</h3>
 
 <p align="center">
-  <b>Lead. Build. Deliver.</b><br/>
-  Transforming complex ideas into scalable systems and predictable outcomes.
+  <b>Lead • Build • Deliver</b><br/>
+  Designing systems. Driving outcomes. Building products that scale.
 </p>
 
 <p align="center">
@@ -16,6 +16,9 @@
   </a>
   <a href="https://www.youtube.com/winarivoli" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-WinArivoli-red?style=for-the-badge&logo=youtube"/>
+  </a>
+  <a href="https://www.arivoli.in" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-arivoli.in-black?style=for-the-badge&logo=google-chrome"/>
   </a>
   <a href="mailto:arivoli@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-darkgreen?style=for-the-badge&logo=gmail"/>
@@ -26,76 +29,115 @@
 
 ## 👋 About Me
 
-I am a **Product & Delivery Leader who builds systems, not just code**.  
-I specialize in driving **enterprise-scale products, sprint execution excellence, release governance, and delivery predictability** across high-pressure, multi-stakeholder environments.
+I am a **Product & Delivery Leader who builds systems, not just code**.
 
-My work sits at the intersection of:
+My core strength lies in operating at the intersection of:
 - **Leadership & Ownership**
 - **Product Thinking & Architecture**
-- **Delivery Excellence & Process Design**
+- **Delivery Excellence & Governance**
 - **Hands-on System Building**
 
-I am known for converting **ambiguity into structure**, **pressure into performance**, and **plans into outcomes**.
+I specialize in transforming **complex delivery environments into predictable, scalable systems** by combining strong execution discipline with thoughtful product design.
+
+I do not just manage teams — I **design operating models, build tools, and engineer execution frameworks** that make success repeatable.
 
 ---
 
 ## 🎯 What I Do
 
 - **Product & Delivery Leadership** – Owning outcomes across multi-team, multi-client programs  
-- **Sprint & Release Governance** – Scope discipline, quality gates, predictable delivery  
-- **System Building** – Designing tools, frameworks, and automation that scale teams  
-- **Process Engineering** – Creating operating models, checklists, metrics, and execution frameworks  
+- **System Building** – Designing internal products, accelerators, and automation frameworks  
+- **Sprint & Release Governance** – Scope discipline, quality gates, delivery predictability  
+- **Process Engineering** – Creating checklists, metrics, escalation models, and execution playbooks  
 - **Stakeholder Leadership** – Clear, confident communication with leadership and clients  
 
 ---
 
-## 🚀 Flagship Work & Products
+## 🚀 Products & Flagship Work
 
-### 🔹 Ticket 360  
-> End-to-end visibility and intelligence layer for Jira-based delivery teams.
+### 🔹 MarkDeck – *Plain Text to Professional Presentations*
 
-- JQL Pivot Analysis & Advanced Reporting  
-- Delivery health dashboards for leadership  
-- Developer productivity accelerators  
-- Sprint & release intelligence layer  
+> A developer-first presentation engine that converts Markdown into clean, professional slide decks.
 
-**Focus:** Delivery visibility, productivity, governance  
-🔗 Repo: https://github.com/sarivoli
+**Why it exists:**  
+Because developers should never struggle with PowerPoint.
+
+**Key Capabilities:**
+- Markdown → Slide deck transformation
+- Theme-driven layouts
+- CI/CD friendly workflows
+- Developer productivity focused
+- Built for speed, consistency, and scale
+
+**Positioning:**  
+Productivity accelerator for engineers, architects, and product teams.
+
+🔗 Release Notes:  
+https://github.com/sarivoli/common/blob/main/markdeck/RELEASE_NOTES.md
 
 ---
 
-### 🔹 MarkDeck  
-> Plain text → Professional presentations. Built for developers & product teams.
+### 🔹 Ticket360 – *Delivery Intelligence Layer for Jira*
 
-- Markdown to slides conversion  
-- Theme-driven presentation engine  
-- CI/CD friendly workflows  
-- Built for speed, consistency, and scale  
+> A visibility and intelligence platform built on top of Jira for leadership, delivery heads, and execution teams.
 
-**Focus:** Developer productivity, communication excellence  
-🔗 Repo: https://github.com/sarivoli
+**Why it exists:**  
+Because leadership should never ask: *“Where are we?”*
+
+**Key Capabilities:**
+- JQL Pivot analysis
+- Sprint health dashboards
+- Delivery risk indicators
+- Scope, slippage, and deviation tracking
+- Leadership-level reporting views
+
+**Positioning:**  
+Delivery governance + execution intelligence.
+
+🔗 Release Notes:  
+https://github.com/sarivoli/common/blob/main/Ticket360/RELEASE_NOTES.md
+
+---
+
+### 🔹 NoteWithVS – *Knowledge Capture for Developers*
+
+> Lightweight, developer-centric note-taking and knowledge management approach.
+
+**Why it exists:**  
+Because context should live with code, not outside it.
+
+**Focus Areas:**
+- Technical notes
+- Architecture thinking
+- Design decisions
+- Developer productivity
+
+🔗 Repo:  
+https://github.com/sarivoli/common/tree/main/notewithvs
 
 ---
 
 ## ✍️ Thought Leadership & Knowledge Sharing
 
-I regularly create content around:
+I actively share insights on:
 
 - Engineering productivity
-- Sprint & release governance
+- Sprint execution excellence
+- Release governance models
 - Delivery risk management
 - AI in delivery acceleration
 - Leadership in execution
 
 ### Channels
 
-- **YouTube (Vlog / Explainers / Demos)**  
+- **Blog:**  
+  🔗 https://www.arivoli.in
+
+- **YouTube (Demos, explainers, walkthroughs):**  
   🔗 https://www.youtube.com/winarivoli  
 
-- **LinkedIn (Leadership insights, delivery wins, team recognition)**  
+- **LinkedIn (Leadership insights, delivery wins, team recognition):**  
   🔗 https://www.linkedin.com/in/sarivoli/  
-
-More content coming soon: blogs, frameworks, delivery playbooks.
 
 ---
 
@@ -139,11 +181,11 @@ I believe in:
 ## 📊 GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarivoli&show_icons=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarivoli&show_icons=true&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarivoli" />
+  <img src="https://streak-stats.demolab.com/?user=sarivoli&hide_border=true" />
 </p>
 
 ---
@@ -151,9 +193,9 @@ I believe in:
 ## 🏆 What Differentiates Me
 
 - **Leader + Builder mindset** – I don’t just manage, I design and build  
+- **Product orientation** – Internal products, accelerators, frameworks  
 - **Delivery-first thinking** – Execution excellence over theoretical perfection  
-- **System orientation** – Tools, frameworks, automation over manual effort  
-- **Ownership culture** – Clear accountability, no ambiguity  
+- **System mindset** – Automation, structure, repeatability  
 - **Enterprise maturity** – Comfortable with scale, complexity, and pressure  
 
 ---
@@ -171,6 +213,7 @@ I am open to:
 📩 **Email:** arivoli@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/sarivoli/  
 📺 **YouTube:** https://www.youtube.com/winarivoli  
+🌐 **Blog:** https://www.arivoli.in  
 
 ---
 
