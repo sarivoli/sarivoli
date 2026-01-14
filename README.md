@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sarivoli/sarivoli/main/banner.png" alt="Arivoli S Banner" />
+  <img src="https://github.com/sarivoli/sarivoli/blob/7ea975753b86fb16304ec4dc5978ac18237dd492/banner.png" alt="Arivoli S Banner" />
 </p>
 
 <h1 align="center">Arivoli S</h1>
