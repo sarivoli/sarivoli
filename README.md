@@ -178,11 +178,15 @@ I believe in:
 
 ---
 
-## 📊 GitHub Snapshot
+## 📈 Execution & Delivery Impact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarivoli&show_icons=true&theme=default&hide_border=true" />
-</p>
+- **Multiple internal products shipped and actively evolved** (MarkDeck, Ticket360, NoteWithVS)
+- **Continuous release cycles with structured release notes and versioning**
+- **Adopted across delivery, product, and engineering workflows**
+- **Built to solve real execution problems, not demo problems**
+- **Used in high-pressure, multi-sprint, multi-client environments**
+
+This profile represents **live systems under real usage**, not experimental repositories.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sarivoli&hide_border=true" />
